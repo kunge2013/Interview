@@ -83,8 +83,4 @@ Java 知识点，继续完善中。
 - [TCP/IP 协议](https://github.com/crossoverJie/Java-Interview/blob/master/MD/TCP%3AIP.md)
 
 
-### 联系作者
 
-> crossoverJie#gmail.com
-
-![](https://ws4.sinaimg.cn/large/006tKfTcly1fochm4as0sj30by0bydgh.jpg)
